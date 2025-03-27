@@ -70,6 +70,7 @@ This list is a **community-driven effort** and we encourage:
 - **Tutanota** 🇩🇪: Secure and private. [Website](https://tutanota.com)
 - **Mailfence** 🇧🇪: Privacy-focused with additional features. [Website](https://mailfence.com)
 - **Posteo** 🇩🇪: Environmentally friendly and privacy-respecting. [Website](https://posteo.de)
+- **KSuite Mail** 🇨🇭: Advertising-free and privacy-friendly. Free up to 20GB. [Website](https://www.infomaniak.com/en/ksuite/service-mail/ecosystem)
 
 ## Search Engines
 - **Qwant** 🇫🇷: Privacy-focused, no tracking. [Website](https://qwant.com)
@@ -82,6 +83,7 @@ This list is a **community-driven effort** and we encourage:
 - **Tresorit** 🇨🇭: End-to-end encrypted. [Website](https://tresorit.com)
 - **Nextcloud** 🇩🇪: Self-hosted, private cloud solution. [Website](https://nextcloud.com)
 - **Sync.com** 🇨🇦: Privacy-focused. [Website](https://sync.com)
+- **KDrive** 🇨🇭: Store, share and synchronise your data in an ethical cloud. [Website](https://www.infomaniak.com/en/ksuite/kdrive)
 
 ## Messaging Apps
 - **Threema** 🇨🇭: Secure and privacy-friendly. [Website](https://threema.ch)
@@ -136,11 +138,19 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Jitsi Meet** 🌐: Open-source, encrypted. [Website](https://jitsi.org)
 - **Whereby** 🇳🇴: Simple, no apps or downloads required. [Website](https://whereby.com)
 - **BigBlueButton** 🇨🇦: Open-source platform for education. [Website](https://bigbluebutton.org)
+- **KMeet** 🇨🇭: Hold online meetings and work remotely with an ethical videoconferencing solution. [Website](https://www.infomaniak.com/en/ksuite/kmeet)
 
-## Operating Systems
+## Computer Operating Systems
 - **Ubuntu** 🇬🇧: Linux OS for desktops and servers. [Website](https://ubuntu.com)
 - **Debian** 🌐: Open-source Linux distribution. [Website](https://debian.org)
 - **Elementary OS** 🌐: Privacy-focused Linux OS. [Website](https://elementary.io)
+
+## Mobile Operating Systems
+- **Sailfish OS** 🇫🇮: Sailfish OS is a mobile operating system based on the QNX platform. [Website](https://sailfishos.org/)
+- **\/e\/OS** 🌐: "deGoogled" mobile operating system that focuses on privacy. [Website](https://e.foundation/e-os/)
+- **GrapheneOS** 🌐: Focus on privacy and security. [Website](https://grapheneos.org/)
+- **PureOS** 🌐: Debian derivative emphasizing privacy and security. [Website](https://pureos.net/)
+- **LineageOS** 🌐: A solid platform with a good set of basic applications. [Website](https://lineageos.org/)
 
 ## E-Commerce
 - **Zalando** 🇩🇪: Fashion and lifestyle retailer. [Website](https://zalando.com)
@@ -178,6 +188,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 ## Maps/Navigation
 - **Mapy** 🇨🇿 - strong alternative to Google Maps, especially for users in Europe and those looking for a privacy-focused mapping service; FREE, detailed maps, offline maps, navigation, privacy-focused, travel info. [Website](https://en.mapy.cz)
+- **Magic Earth** 🇳🇱 🇷🇴 - Other strong alternative to Google Maps based on OpenStreetMap and available for mobile. Free and with features including online and offline maps, navigation, search, weather forecast and location sharing. [Website] (https://www.magicearth.com/)
 - **OpenStreetMap** 🌐: A community-driven, open-source mapping platform.  Provides highly customisable maps and is used by many third-party apps. [Website](https://www.openstreetmap.org)
 - **Here WeGo** 🇩🇪: Offers free navigation with offline maps and real-time traffic updates.  
   Great for driving, cycling, and walking. [Website](https://wego.here.com)
